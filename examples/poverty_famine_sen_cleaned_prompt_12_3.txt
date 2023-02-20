@@ -1,0 +1,1367 @@
+Chapter 1
+Poverty and Entitlements
+
+I.I ENTITLEMENTS AND OWNERSHIP
+Starvation is the characteristic of some people not having enough food to eat. It is not the characteristic of there being not enough food to eat. While the latter can be a cause of the former, it is but one of many possible causes. Whether and how starvation relates to food supply is a matter for factual investigation.
+Food supply statements say things about a commodity (or a group of commodities) considered on its own. Starvation statements are about the relationship of persons to the commodity (or that commodity group). Leaving out cases in which a person may deliberately starve, starvation statements translate readily into statements of ownership of food by persons. In order to understand starvation, it is, therefore, necessary to go into the structure of ownership.
+Ownership relations are one kind of entitlement relations. It is necessary to understand the entitlement systems within which the problem of starvation is to be analysed. This applies more generally to poverty as such, and more specifically to famines as well.
+An entitlement relation applied to ownership connects one set of ownerships to another through certain rules of legitimacy. It is a recursive relation and the process of connecting can be repeated. Consider a private ownership market economy. I own this loaf of bread. Why is this ownership accepted? Because I got it by exchange through paying some money I owned. Why is my ownership of that money accepted? Because I got it by selling a bamboo umbrella owned by me. Why is my ownership of the bamboo umbrella accepted? Because I made it with my own
+
+
+
+
+
+
+ PAGE 10 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+labour using some bamboo from my land. Why is my ownership
+of the land accepted? Because I inherited it from my father. Why
+is his ownership of that land accepted? And so on. Each link in
+this chain of entitlement relations 'legitimizes' one set of
+ownership by reference to another, or to some basic entitlement
+in the form of enjoying the fruits of one's own labour. Entitlement relations accepted in a private ownership market
+economy typically include the following, among others:
+(i) trade-based entitlement: one is entitled to own what one obtains
+by trading something one owns with a willing party (or,
+multilaterally, with a willing set of parties);
+(2) production-based entitlement, one is entitled to own what one
+gets by arranging production using one's owned resources, or
+resources hired from willing parties meeting the agreed
+conditions of trade;
+(3) own-labour entitlement: one is entitled to one's own labour
+power, and thus to the trade-based and production-based
+entitlements related to one's labour power;
+(4) inheritance and transfer entitlement: one is entitled to own what is
+willingly given to one by another who legitimately owns it,
+possibly to take affect after the latter's death (if so specified
+by him).
+These are some entitlement relations of more or less straightforward kind, but there are others, frequently a good deal more
+complex. For example, one may be entitled to enjoy the fruits of
+some property without being able to trade it for anything else. Or
+one may be able to inherit the property of a deceased relation
+who did not bequeath it to anyone, through some rule of kinshipbased inheritance accepted in the country in question. Or one
+may have some entitlements related to unclaimed objects on the
+basis of discovery. Market entitlements may even be supplemented by rationing or coupon systems, even in private
+ownership market economies, such as in Britain during the last
+war.
+This may or may not be combined with price 'control', and that in its turn may or
+may not be combined with a flourishing 'black market'; see Dasgupta (1950) for an
+illuminating analysis of black market prices.
+
+
+
+
+
+
+ PAGE 11 ENDS
+
+
+
+
+
+
+entitlement are the economic system, the ownership structure,
+the production technology, the distribution of resources, and the
+market structure. The economic system determines the
+ownership structure, and the ownership structure determines
+the exchange entitlement. The production technology and the
+distribution of resources determine the production-based
+entitlements, and the market structure determines the
+exchange-based entitlements.
+Poverty and entitlements are closely related. Poverty is
+defined as a situation in which a person's ownership bundle
+belongs to the starvation set. Entitlements are the rights and
+obligations that arise from ownership relations. Poverty is
+caused by a lack of entitlements, and entitlements are
+determined by ownership relations. The scope of ownership
+relations can vary greatly with economic systems. A socialist
+economy may not permit private ownership of 'means of
+production', thereby rendering 'production-based entitlements'
+inoperative except when it involves just one's own labour and
+some elementary tools and raw materials. A capitalist
+economy will not only permit the private ownership of means
+of production; that is indeed one of its main foundations. On
+the other hand, a capitalist economy—like a socialist one—will
+not permit ownership of one human being by another, as a
+slave economy will. A socialist economy may restrict the
+employment of one person by another for production
+purposes, i.e. constrain the possibility of private trading of
+labour power for productive use. A capitalist economy will
+not, of course, do this, but may impose restrictions on binding
+contracts involving labour-power obligations over long periods
+of time. This, however, is the standard system under some
+feudal practices involving bonded labour, and also in some
+cases of colonial plantations.
+In a market economy, a person can exchange what he owns for
+another collection of commodities. He can do this exchange
+either through trading, or through production, or through a
+combination of the two. The set of all the alternative bundles of
+commodities that he can acquire in exchange for what he owns
+may be called the 'exchange entitlement' of what he owns.
+The 'exchange entitlement mapping' is the relation that
+specifies the set of exchange entitlements for each ownership
+bundle. This relation—E-mapping for brevity—defines the
+possibilities that would be open to him corresponding to each
+ownership situation. A person will be exposed to starvation if, for
+the ownership that he actually has, the exchange entitlement set
+does not contain any feasible bundle including enough food.
+Given the E-mapping, it is in this way possible to identify those
+ownership bundles—call them collectively the starvation set—
+that must, thus, lead to starvation in the absence of nonentitlement transfers. E-mappings, starvation sets, and related
+concepts are discussed in Chapter 5 and are formally analysed
+in Appendix A, and here we are concerned only with the
+underlying ideas.
+Among the influences that determine a person's exchange
+entitlement are the economic system, the ownership structure,
+the production technology, the distribution of resources, and the
+market structure. The economic system determines the
+ownership structure, and the ownership structure determines
+the exchange entitlement. The production technology and the
+distribution of resources determine the production-based
+entitlements, and the market structure determines the
+exchange-based entitlements. Poverty and entitlements are
+closely related. Poverty is defined as a situation in which a
+person's ownership bundle belongs to the starvation set.
+Entitlements are the rights and obligations that arise from
+ownership relations. Poverty is caused by a lack of
+entitlements, and entitlements are determined by ownership
+relations.
+
+
+
+
+
+
+ PAGE 12 ENDS
+
+
+
+
+
+
+
+Poverty and Famines
+
+entitlement mapping can differ with the mode of production.
+For example, in a subsistence economy, the exchange entitlements
+of a person will depend on the amount of land he owns and
+the amount of labour he can command. In a capitalist economy,
+the exchange entitlements of a person will depend on his ownership
+bundle (including labour power) and the wage rate he can
+command. In a socialist economy, the exchange entitlements of
+a person will depend on his ownership bundle (including labour
+power) and the amount of resources he can command from
+the state.
+A person's ability to avoid starvation will depend both on his
+ownership and on the exchange entitlement mapping that he
+faces. A general decline in food supply may indeed cause him to
+be exposed to hunger through a rise in food prices with an
+unfavourable impact on his exchange entitlement. Even when
+his starvation is caused by food shortage in this way, his immediate
+reason for starvation will be the decline in his exchange
+entitlement.
+More importantly, his exchange entitlement may worsen for
+reasons other than a general decline of food supply. For example,
+given the same total food supply, other groups' becoming richer
+and buying more food can lead to a rise in food prices, causing a
+worsening of exchange entitlement. Or some economic change
+may affect his employment possibilities, leading also to worse
+exchange entitlement. Similarly, his wages can fall behind prices.
+Or the price of necessary resources for the production he engages
+in can go up relatively. These diverse influences on exchange
+entitlements are as relevant as the overall volume of food supply
+vis-à-vis population.
+I.3 MODES OF PRODUCTION
+The exchange entitlements faced by a person depend, naturally,
+on his position in the economic class structure as well as the
+modes of production in the economy. What he owns will vary
+with his class, and even if exactly the same E-mapping were to
+hold for all, the actual exchange entitlements would differ with
+his ownership position.
+But even with the same ownership position, the exchange 
+entitlement mapping can differ with the mode of production.
+For example, in a subsistence economy, the exchange entitlements
+of a person will depend on the amount of land he owns and
+the amount of labour he can command. In a capitalist economy,
+the exchange entitlements of a person will depend on his ownership
+bundle (including labour power) and the wage rate he can
+command. In a socialist economy, the exchange entitlements of
+a person will depend on his ownership bundle (including labour
+power) and the amount of resources he can command from
+the state.
+A person's ability to avoid starvation will depend both on his
+ownership and on the exchange entitlement mapping that he
+faces. A general decline in food supply may indeed cause him to
+be exposed to hunger through a rise in food prices with an
+unfavourable impact on his exchange entitlement. Even when
+his starvation is caused by food shortage in this way, his immediate
+reason for starvation will be the decline in his exchange
+entitlement.
+More importantly, his exchange entitlement may worsen for
+reasons other than a general decline of food supply. For example,
+given the same total food supply, other groups' becoming richer
+and buying more food can lead to a rise in food prices, causing a
+worsening of exchange entitlement. Or some economic change
+may affect his employment possibilities, leading also to worse
+exchange entitlement. Similarly, his wages can fall behind prices.
+Or the price of necessary resources for the production he engages
+in can go up relatively. These diverse influences on exchange
+entitlements are as relevant as the overall volume of food supply
+vis-à-vis population.
+I.3 MODES OF PRODUCTION
+The exchange entitlements faced by a person depend, naturally,
+on his position in the economic class structure as well as the
+modes of production in the economy. What he owns will vary
+with his class, and even if exactly the same E-mapping were to
+hold for all, the actual exchange entitlements would differ with
+his ownership position.
+But even with the same ownership position, the exchange 
+entitlement mapping can differ with the mode of production.
+For example, in a subsistence economy, the exchange entitlements
+of a person will depend on the amount of land he owns and
+the amount of labour he can command. In a capitalist economy,
+the exchange entitlements of a person will depend on his ownership
+bundle (including labour power) and the wage rate he can
+command. In a socialist economy, the exchange entitlements of
+a person will depend on his ownership bundle (including labour
+power) and the amount of resources he can command from
+the state.
+
+
+
+
+
+
+ PAGE 13 ENDS
+
+
+
+
+
+
+Poverty and Entitlements
+
+Entitlements will be different depending on what economic prospects are open to him, and that will depend on the modes of production and his position in terms of production relations. For example, while a peasant differs from a landless labourer in terms of ownership (since he owns land, which the labourer does not), the landless share-cropper differs from the landless labourer not in their respective ownerships, but in the way they can use the only resource they own, viz. labour power. The landless labourer will be employed in exchange for a wage, while the share-cropper will do the cultivation and own a part of the product.
+This difference can lead not merely to contrasts of the levels of typical remuneration of the two, which may or may not be very divergent, but also to sharp differences in exchange entitlements in distress situations. For example, a cyclone reducing the labour requirement for cultivation by destroying a part of the crop in each farm may cause some casual agricultural labourers to be simply fired, leading to a collapse of their exchange entitlements, while others are retained. In contrast, in this case the sharecroppers may all operate with a lower labour input and lower entitlement, but no one may become fully jobless and thus incomeless.
+Similarly, if the output is food, e.g. rice or wheat, the sharecropper gets his return in a form such that he can directly eat it without going through the vagaries of the market. In contrast, the agricultural labourer paid in money terms will have to depend on the exchange entitlement of his money wage. When famines are accompanied by sharp changes in relative prices—and in particular a sharp rise in food prices—there is much comparative merit in being a share-cropper rather than an agricultural labourer, especially when the capital market is highly imperfect. The greater production risk of the sharecropper compared with the security of a fixed wage on the part of the agricultural labourer has been well analysed; but a fixed money wage may offer no security at all in a situation of sharply varying food prices (even when employment is guaranteed). In contrast, a share of the food output does have some security advantage in terms of exchange entitlement.
+
+
+
+
+
+
+ PAGE 14 ENDS
+
+
+
+
+
+
+
+Poverty and Famines
+Similarly, those who sell services (e.g. barbers or rickshawpullers) or handicraft products (e.g. weavers or shoemakers) are—like wage labourers—more exposed, in this respect, to famines involving unexpected rises of food prices than are peasants or share-croppers producing food crops. This is the case even when the typical standard of living of the latter is no higher than that of the former.
+In understanding general poverty, or regular starvation, or outbursts of famines, it is necessary to look at both ownership patterns and exchange entitlements, and at the forces that lie behind them. This requires careful consideration of the nature of modes of production and the structure of economic classes as well as their interrelations. Later in the monograph, when actual famines are analysed, these issues will emerge more concretely.
+I.4 SOCIAL SECURITY AND EMPLOYMENT ENTITLEMENTS
+The exchange entitlements depend not merely on market exchanges but also on those exchanges, if any, that the state provides as a part of its social security programme. Given a social security system, an unemployed person may get 'relief, an old person a pension, and the poor some specified 'benefits'. These affect the commodity bundles over which a person can have command. They are parts of a person's exchange entitlements, and are conditional on the absence of other exchanges that a person might undertake. For example, a person is not entitled to unemployment benefit if he exchanges his labour power for a wage, i.e. becomes employed. Similarly, exchanges that make a person go above the specified poverty norm will make him ineligible for receiving the appropriate relief. These social security provisions are essentially supplementations of the processes of market exchange and production, and the two types of opportunities together determine a person's exchange entitlements in a private ownership market economy with social security provisions.
+The social security arrangements are particularly important in the context of starvation. The reason why there are no famines in the rich developed countries is not because people are generally rich on the average. Rich they certainly are when they have jobs and earn a proper wage; but for large numbers of people this condition fails to hold for long periods of time, and the exchange
+
+
+
+
+
+
+ PAGE 15 ENDS
+
+
+
+
+
+
+Poverty and Entitlements
+
+entitlements of their endowments in the absence of social security arrangements could provide very meagre commodity bundles indeed. With the proportion of unemployment as high as it is, say, in Britain or America today, but for the social security arrangements there would be widespread starvation and possibly a famine. What prevents that is not the high average income or wealth of the British or the general opulence of the Americans, but the guaranteed minimum values of exchange entitlements owing to the social security system.
+Similarly, the elimination of starvation in socialist economies —for example in China—seems to have taken place even without a dramatic rise in food availability per head, and indeed, typically the former has preceded the latter. The end of starvation reflects a shift in the entitlement system, both in the form of social security and—more importantly—through systems of guaranteed employment at wages that provide exchange entitlement adequate to avoid starvation.
+1.5 FOOD SUPPLY AND STARVATION
+There has been a good deal of discussion recently about the prospect of food supply falling significantly behind the world population. There is, however, little empirical support for such a diagnosis of recent trends. Indeed, for most areas in the world—with the exception of parts of Africa—the increase in food supply has been comparable to, or faster than, the expansion of population. But this does not indicate that starvation is being systematically eliminated, since starvation—as discussed—is a function of entitlements and not of food availability as such. Indeed, some of the worst famines have taken place with no significant decline in food availability per head.
+To say that starvation depends 'not merely' on food supply but also on its 'distribution' would be correct enough, though not remarkably helpful. The important question then would be: what determines distribution of food between different sections of the community? The entitlement approach directs one to questions dealing with ownership patterns and—less obviously
+
+
+
+
+
+
+ PAGE 16 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+but no less importantly—to the various influences that affect
+exchange entitlement mappings (see Appendices A and B, and
+Chapters 5-10). In so far as food supply itself has any influence on
+the prevalence of starvation, that influence is seen as working
+through the entitlement relations. If one person in eight starves
+regularly in the world, this is seen as the result of his inability to
+establish entitlement to enough food; the question of the physical
+availability of the food is not directly involved.
+The approach of entitlements used in this work is very general
+and—I would argue—quite inescapable in analysing starvation
+and poverty. If, nevertheless, it appears odd and unusual, this
+can be because of the hold of the tradition of thinking in terms of
+what exists rather than in terms of who can command what. The
+mesmerizing simplicity of focusing on the ratio of food to
+population has persistently played an obscuring role over
+centuries, and continues to plague policy discussions today much
+as it has deranged anti-famine policies in the past.
+
+
+
+
+
+
+ PAGE 17 ENDS
+
+
+
+
+
+
+Chapter 2
+Concepts of Poverty
+
+2.1 REQUIREMENTS OF A CONCEPT OF POVERTY
+On his deathbed in Calcutta, J. B. S. Haldane wrote a poem
+called 'Cancer's a funny thing'. Poverty is no less funny.
+Consider the following view of poverty:
+People must not be allowed to become so poor that they offend or are
+hurtful to society. It is not so much the misery and plight of the poor but
+the discomfort and cost to the community which is crucial to this view of
+poverty. We have a problem of poverty to the extent that low income
+creates problems for those who are not poor.
+To live in poverty may be sad, but to 'offend or [be] hurtful to
+society', creating 'problems for those who are not poor' is, it
+would appear, the real tragedy. It isn't easy to push much further
+the reduction of human beings into 'means'.
+The first requirement of the concept of poverty is of a criterion
+as to who should be the focus of our concern. The specification of
+certain 'consumption norms', or of a 'poverty line', may do part
+of the job: 'the poor' are those people whose consumption
+standards fall short of the norms, or whose incomes lie below that
+line. But this leads to a further question: is the concept of poverty
+to be related to the interests of: (i) only the poor, (iii) both the
+poor and the non-poor?
+It seems a bit grotesque to hold that the concept of poverty
+should be concerned only with the non-poor, and I take the
+liberty of dropping (ii)—and the 'view' quoted in the first
+paragraph—without further ado. Alternative (iii) might,
+however, appear to be appealing, since it is broad-based and
+unrestrictive. There is little doubt that the penury of the poor
+does, in fact, affect the well-being of the rich. The real question is
+whether such effects should enter into the concept of poverty as
+
+
+
+
+
+
+ PAGE 18 ENDS
+
+
+
+
+
+
+Poverty and Famines: An Essay on Entitlement and Deprivation, Oxford: Clarendon
+Press, 1981.
+
+Poverty and Famines
+
+Such, or whether they should figure under the possible effects of poverty. I believe a good case can be made for choosing the latter alternative, since in an obvious sense poverty must be a characteristic of the poor rather than of the non-poor. One can, for instance, argue that, if one considers a case of reduction of real income and increase in the suffering of all the poor, it must be described as an increase of poverty, no matter whether this change is accompanied by a reduction in the adverse effects on the rich (e.g. whether the rich are less 'offended' by the sight of penury).
+This conception of poverty based on does not, of course, imply any denial of the fact that the suffering of the poor themselves may depend on the condition of the non-poor. It merely asserts that the focus of the concept of poverty has to be on the well-being of the poor as such, no matter what influences affect their well-being. Causation of poverty and effects of poverty will be important issues to study on their own rights, and the conceptualization of poverty in terms of the conditions only of the poor does not affect the worthwhileness of studying these questions. Indeed, there will be much to say on these questions later on in the book.
+It is perhaps worth mentioning in this context that in some discussions one is concerned not with the prevalence of poverty in a country in the form of the suffering of the poor, but with the relative opulence of the nation as a whole. In those discussions it will, of course, be entirely legitimate to be concerned with the well-being of all the people in the nation, and the description of a nation as 'poor' must obviously relate to such a broader concept. These are different exercises, and so long as this fact is clearly recognized there need not be any confusion.
+Even after we have identified the poor and specified that the concept of poverty is concerned with the conditions of the poor, much remains to be done. There is the problem of aggregation—often important—over the group of the poor, and this involves moving from the description of the poor to some over-all measure of'poverty' as such. In some traditions, this is done very simply by just counting the number of the poor, and then expressing poverty as the ratio of the number of the poor to the total number of people in the community in question.
+
+
+
+
+
+
+ PAGE 19 ENDS
+
+
+
+
+
+
+
+In this chapter, the focus is on concepts of poverty. A head-count measure, referred to as H, is the most widely used measure, but it has two serious drawbacks. It does not take into account the extent of the shortfall of incomes of the poor from the poverty line, nor is it sensitive to the distribution of income among the poor. This chapter is not concerned with problems of measurement, but rather with the general ideas on the conception of poverty. 
+Two distinct exercises are required for a concept of poverty: identification of a group of people as poor, and aggregation of the characteristics of the set of poor people into an overall image of poverty. Alternative approaches to the concept of poverty can be found in the literature, and these will be evaluated in the following sections. 
+The biological approach, as defined by Seebohm Rowntree in 1901, defines families as being in primary poverty if their total earnings are insufficient to obtain the minimum necessities for the maintenance of merely physical efficiency. 
+The subsistence approach, which is based on the idea that poverty is a lack of basic needs, is also discussed. This approach is based on the notion that poverty is a lack of basic needs, and it is argued that this approach is inadequate in that it does not take into account the social and psychological aspects of poverty. 
+The relative deprivation approach is based on the idea that poverty is a lack of resources relative to the resources of others. This approach is criticized for its lack of precision and its reliance on subjective judgments. 
+Finally, the capability approach is discussed. This approach is based on the idea that poverty is a lack of capabilities, and it is argued that this approach is more comprehensive than the other approaches as it takes into account both the material and non-material aspects of poverty.
+
+
+
+
+
+
+ PAGE 20 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+survival or work efficiency have been often used in defining the
+poverty line. Starvation, clearly, is the most telling aspect of
+poverty.
+The biological approach has come under rather intense fire
+recently. There are indeed several problems with its use. First,
+there are significant variations related to physical features,
+climatic conditions and work habits. In fact, even for a specific
+group in a specific region, nutritional requirements are difficult
+to define precisely. People have been known to survive with
+incredibly little nutrition, and there seems to be a cumulative
+improvement of life expectation as the dietary limits are raised.
+In fact, physical opulence seems to go on increasing with
+nutrition over a very wide range; Americans, Europeans and
+Japanese have been growing measurably in stature as their diets
+have continued to improve. There is difficulty in drawing a line
+somewhere, and the so-called 'minimum nutritional requirements' have an inherent arbitrariness that goes well beyond
+variations between groups and regions.
+Second, the translation of minimum nutritional requirements
+into minimum food requirements depends on the choice of
+commodities. While it may be easy to solve the programming
+exercise of a 'diet problem', choosing a minimum cost diet for
+meeting specified nutritional requirements from food items sold
+at specified costs, the relevance of such a minimum cost diet is not
+clear. Typically, it turns out to be very low-cost indeed, but
+monumentally boring, and people's food habits are not, in fact,
+determined by such a cost minimization exercise. The actual
+incomes at which specified nutritional requirements are met will
+depend greatly on the consumption habits of the people in
+question.
+Third, for non-food items such minimum requirements are not
+easy to specify, and the problem is usually solved by assuming
+that a specified proportion of total income will be spent on food.
+With this assumption, the minimum food costs can be used to
+derive minimum income requirements. But the proportion spent
+on food varies not merely with habits and culture, but also with
+relative prices and availability of goods and services. It is not
+
+
+
+
+
+
+ PAGE 21 ENDS
+
+
+
+
+
+
+The concept of poverty, then, is a complex one, and it is
+
+
+
+
+
+
+ PAGE 22 ENDS
+
+
+
+
+
+
+Poverty and Famines
+Third, even when we do go through the intermediary of income, the translation of a set of nutritional norms (or of alternative sets of such norms) into a 'poverty line' income (or poverty-line incomes) may be substantially simplified by the wide prevalence of particular patterns of consumption behaviour in the community in question. Proximity of actual habits and behaviour makes it possible to derive income levels at which the nutritional norms will be 'typically' met. (This question is discussed further in Chapter 3.)
+Finally, while it can hardly be denied that malnutrition captures only one aspect of our idea of poverty, it is an important aspect, and one that is particularly important for many developing countries. It seems clear that malnutrition must have a central place in the conception of poverty. How exactly this place is to be specified remains to be explored, but the recent tendency to dismiss the whole approach seems to be a robust example of misplaced sophistication.
+THE INEQUALITY APPROACH
+The idea that the concept of poverty is essentially one of inequality has some immediate plausibility. After all, transfers from the rich to the poor can make a substantial dent on poverty in most societies. Even the poverty line to be used for identifying the poor has to be drawn with respect to contemporary standards in the community in question, so that poverty may look very like inequality between the poorest group and the rest of the community.
+Arguments in favour of viewing poverty as inequality are presented powerfully by Miller and Roby, who conclude:
+Casting the issues of poverty in terms of stratification leads to regarding poverty as an issue of inequality. In this approach, we move away from efforts to measure poverty lines with pseudo-scientific accuracy. Instead, we look at the nature and size of the differences between the bottom 20 or 10 per cent and the rest of the society. Our concern becomes one of narrowing the differences between those at the bottom and the better-off in each stratification dimension.
+There is clearly quite a bit to be said in favour of this approach. But one can argue that inequality is fundamentally a different
+
+
+
+
+
+
+ PAGE 23 ENDS
+
+
+
+
+
+
+Concepts of Poverty
+
+It is, of course, quite a different matter to recognize that inequality and poverty are associated with each other, and to note that a different distribution system may cure poverty even without an expansion of the country's productive capabilities. Recognizing the distinct nature of poverty as a concept permits one to treat it as a matter of interest and involvement in itself. The role of inequality in the prevalence of poverty can then figure in the analysis of poverty without making the two conceptually equivalent.
+2.4 RELATIVE DEPRIVATION
+The concept of 'relative deprivation' has been fruitfully used in the analysis of poverty, especially in the sociological literature. Being poor has clearly much to do with being deprived, and it is natural that, for a social animal, the concept of deprivation will be a relative one. But within the uniformity of the term 'relative deprivation', there seem to exist some distinct and different notions.
+One distinction concerns the contrast between feelings of
+
+
+
+
+
+
+ PAGE 24 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+deprivation and 'conditions of deprivation'. Peter Townsend has
+argued that 'the latter would be a better usage'. There is indeed
+much to be said for a set of criteria that can be based on concrete
+conditions, so that one could use 'relative deprivation' 'in an
+objective sense to describe situations where people possess less of
+some desired attribute, be it income, favourable employment
+conditions or power, than do others'.
+On the other hand, the choice of 'conditions of deprivation' can
+not be independent of 'feelings of deprivation'. Material
+objects cannot be evaluated in this context without reference to
+how people view them, and even if 'feelings' are not brought in
+explicitly, they must have an implicit role in the selection of
+'attributes'. Townsend has rightly emphasized the importance of
+the 'endeavour to define the style of living which is generally
+shared or approved in each society and find whether there
+is ... a point in the scale of the distribution of resources below
+which families find it increasingly difficult ... to share in the
+customs, activities and diets comprising that style of living'.
+One must, however, look also at the feelings of deprivation in
+deciding on the style and level of living the failure to share which
+is regarded as important. The dissociation of 'conditions' from
+'feelings' is, therefore, not easy, and an objective diagnosis of
+'conditions' requires an objective understanding of 'feelings'.
+A second contrast concerns the choice of 'reference groups' for
+comparison. Again, one has to look at the groups with which the
+people in question actually compare themselves, and this can be
+one of the most difficult aspects of the study of poverty based on
+relative deprivation. The horizon of comparison is not, of course,
+independent of political activity in the community in question,
+since one's sense of deprivation is closely related to one's
+expectations as well as one's view of what is fair and who has the
+right to enjoy what.
+
+
+
+
+
+
+ PAGE 25 ENDS
+
+
+
+
+
+
+Poverty is a complex phenomenon, and it is not easy to define
+it in a precise way. It is, however, possible to distinguish between
+two approaches to the concept of poverty. The first is the
+approach of relative deprivation, which is based on the idea that
+poverty is a relative concept, and that it is defined in terms of the
+distribution of resources within a given society. Thus, a person
+may be said to be poor if he or she is deprived of resources
+which are available to other members of the same society. This
+approach has been widely used in the literature on poverty and
+has been the basis of many attempts to measure the extent of
+attitude to the subject. But it is important to distinguish between
+the two. The exercise of poverty assessment is a descriptive one,
+and not a prescriptive one. It is concerned with the facts of
+deprivation, and not with the values of the society.
+
+
+
+
+
+
+ PAGE 26 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+policy, the 'policy definition' may fail to catch the political issues
+in policy-making. Second, even if 'policy' is taken to stand not for actual public policy, but for policy recommendations widely held in the society in question, there are problems. There is clearly a difference between the notion of 'deprivation' and the idea of what should be eliminated by 'policy'. For one thing, policy recommendations must depend on an assessment of feasibilities ('ought implies can'), but to concede that some deprivations cannot be immediately eliminated is not the same thing as conceding that they must not currently be seen as deprivations. (Contrast: 'Look here, old man, you aren't really poor even though you are starving, since it is impossible in the present economic circumstances to maintain the income of everyone above the level needed to eliminate starvation.') Adam Smith's notion of subsistence based on 'the commodities which are indispensably necessary for the support of life' and 'what ever the custom of the country renders it indecent' for someone 'to be without' is by no means identical with what is generally accepted as could and should be provided to all as a matter of policy. If in a country suddenly impoverished, say, by war it is agreed generally that the income maintenance programme must be cut down to a lower level of income, would it be right to say that the country does not have any greater poverty since a reduction of incomes has been matched by a reduction of the poverty line?
+I would submit that the 'policy definiton' is based on a fundamental confusion. It is certainly true that with economic development there are changes in the notion of what counts as deprivation and poverty, and there are changes also in the ideas as to what should be done. But while these two types of changes are interdependent and also intertemporally correlated with each other, neither can be defined entirely in terms of the other. Oil-rich Kuwait may be 'more able to support their dependent citizens' with its new prosperity, but the notion of what is poverty may not go up immediately to the corresponding level. Similarly, the war-devastated Netherlands may keep up its standard of what counts as poverty and not scale it down to the level commensurate with its predicament.
+
+
+
+
+
+
+ PAGE 27 ENDS
+
+
+
+
+
+
+If this approach is accepted, then the measurement of poverty must be seen as an exercise of description assessing the predicament of people in terms of the prevailing standards of necessities. It is primarily a factual rather than an ethical exercise, and the facts relate to what is regarded as deprivation, and not directly to what policies are recommended. The deprivation in question has both absolute and relative aspects.
+
+Two issues remain untouched. First, in comparing the poverty of two societies, how can a common standard of necessities be found, since such standards would vary from society to society? There are two distinct types of exercises in such inter-community comparisons. One is aimed at comparing the extent of deprivation in each community in relation to their respective standards of minimum necessities, and the other is concerned with comparing the predicament of the two communities in terms of some given minimum standard.
+
+Second, while the exercise of 'identification' of the poor can be based on a standard of minimum needs, that of 'aggregation' requires some method of combining deprivations of different people into some overall indicator. In the latter exercise some relative scaling of deprivations is necessary.
+
+
+
+
+
+
+ PAGE 28 ENDS
+
+
+
+
+
+
+Poverty and Famines
+Poverty is a matter of deprivation. The recent shift in focus from absolute to relative deprivation has provided a useful framework of analysis. But relative deprivation is incomplete as an approach to poverty and supplements, but cannot supplant, the earlier approach of absolute dispossession. The biological approach, which deserves reformulation but not rejection, relates to the irreducible core of absolute deprivation, keeping issues of starvation and hunger at the centre of the concept of poverty.
+To view poverty as an issue in inequality does little justice to either concept. There is an element of arbitrariness in the description of poverty and making that element as clear as possible is important. Conventions on this are less firmly established and the constraints of acceptability would tend to leave one with a good deal of freedom. The problem is somewhat comparable with the criteria for making aggregative descriptive statements in such fields as comparisons of sporting achievements of different groups. While it is clear that certain circumstances would permit one to make an aggregative statement, and other circumstances would force one to deny this, there are intermediate cases in which either of the two aggregative descriptive statements would be disputable.
+The ethical exercises involve similar ambiguities and end up answering a different question from the descriptive one that was originally asked.
+
+
+
+
+
+
+ PAGE 29 ENDS
+
+
+
+
+
+
+Poverty and inequality relate closely to each other, but they are distinct concepts and neither subsumes the other. There is a good case for viewing the measurement of poverty not as an ethical exercise, but primarily as a descriptive one. Furthermore, it can be argued that the frequently used 'policy definition' of poverty is fundamentally flawed. The exercise of describing the predicament of the poor in terms of the prevailing standards of 'necessities' does involve ambiguities, which are inherent in the concept of poverty. But ambiguous description isn't the same thing as prescription. Instead, the arbitrariness that is inescapable in choosing between permissible procedures and possible interpretations of prevailing standards requires recognition and appropriate treatment.
+
+The underlying methodological issues have been discussed in Sen (1980a).
+
+
+
+
+
+
+ PAGE 30 ENDS
+
+
+
+
+
+
+
+The question of whether commodities or characteristics should
+be used in specifying basic needs is not easy to answer. It is
+possible to argue that the use of characteristics is more
+appropriate since it is the characteristics of commodities that
+consumers seek, and it is these characteristics that are
+important in determining the level of welfare. On the other
+hand, it is also possible to argue that the use of commodities
+is more appropriate since it is the commodities that are
+available in the market, and it is these commodities that
+consumers have to buy in order to satisfy their needs.
+
+The choice between commodities and characteristics is
+further complicated by the fact that the characteristics of
+commodities are not always known. For example, the
+calorie content of a particular commodity may not be known
+with any degree of accuracy. In such cases, it is not possible
+to specify the characteristics needs of the consumers. In
+addition, the characteristics of commodities may vary
+considerably from one region to another, and from one
+season to another. This makes it difficult to specify
+characteristics needs in a uniform manner.
+
+In view of these considerations, it appears that the use of
+commodities is more appropriate in specifying basic needs.
+This is not to deny the importance of characteristics in
+determining the level of welfare, but merely to suggest that
+commodities are more appropriate in specifying basic needs
+since they are more easily available and more easily
+measurable. It is also possible to argue that the use of
+commodities is more appropriate since it is the commodities
+that are actually consumed by the poor, and it is these
+commodities that are important in determining their level of
+welfare.
+
+In conclusion, it appears that the use of commodities is
+more appropriate in specifying basic needs than the use of
+characteristics. This is not to deny the importance of
+characteristics in determining the level of welfare, but merely
+to suggest that commodities are more appropriate in
+specifying basic needs since they are more easily available
+and more easily measurable.
+
+
+
+
+
+
+ PAGE 31 ENDS
+
+
+
+
+
+
+
+The characteristics needs are, in an obvious sense, prior to the needs for commodities, and translation of the former to the latter is possible only under special circumstances. Multiplicity of sources is, however, not uniform. Many commodities provide calories or proteins; rather few commodities provide shelter. Literacy comes almost entirely from elementary schooling, even though there are, in principle, other sources. In many cases, therefore, it is possible to move from characteristics requirements to commodity requirements—broadly defined—with rather little ambiguity. It is for this reason that 'basic' or 'minimum' needs are often specified in terms of a hybrid vector—e.g. amounts of calories, proteins, housing, schools, hospital beds—some of the components being pure characteristics while others are unabashed commodities. While there is some evidence that such mongrelism disconcerts the purist, it is quite economic, and typically does little harm.
+
+An interesting intermediate case arises when a certain characteristic can be obtained from several different commodities, but the tastes of the community in question guarantee that the characteristic is obtained from one commodity only. A community may, for example, be wedded to rice, and may not treat the alternative sources of calories (or carbohydrates) as acceptable. A formal way of resolving the issue is to define the characteristic 'calories from rice' as the thing sought by the consumer in question, so that rice and rice alone can satisfy this. This is analytically adequate if a little underhand. But there are also other ways of handling the problem, e.g. the assumption that the group seeks calories as such but treats rice as its only feasible source. While these conceptual distinctions may not have much immediate practical importance, they tend to suggest rather different approaches to policy issues involving taste variations.
+
+The role of knowledge accumulation in reforming ideas of feasible diets may in fact be an important part of nutritional planning. The knowledge in question includes both information about nutrition as such and experience of how things taste (once one breaks out of the barrier spotted by the old Guinness ad: 'I have never tasted it because I don't like it').
+
+Dietary habits of a population are not, of course, immutable, but they have remarkable staying power. In making intercommunity comparisons of poverty, the contrast between for
+
+
+
+
+
+
+ PAGE 32 ENDS
+
+
+
+
+
+
+Poverty and Famines
+In identifying the poor for a given set of basic needs, it is possible to use at least two alternative methods. One is simply to check the set of people whose actual consumption baskets happen to leave some basic need unsatisfied. This we may call the 'direct method', and it does not involve the use of any income notion, in particular not that of a poverty-line income. In contrast, in what may be called the 'income method', the first step is to calculate the minimum income at which all the specified minimum needs are satisfied. The next step is to identify those whose actual incomes fall below that poverty line.
+In an obvious sense the direct method is superior to the income method, since the former is not based on particular assumptions of consumption behaviour which may or may not be accurate. Indeed, it could be argued that only in the absence of direct information regarding the satisfaction of the specified needs can there be a case for bringing in the intermediary of income, so that the income method is at most a second best.
+There is much to be said for such a view, and the income method can indeed be seen as a way of approximating the results of the direct method. But the income method has the advantage of being more easily operationalized, and it is this which has led to its widespread use. Moreover, the income method has the advantage of being able to take account of the fact that formulating needs in terms of characteristics and formulating needs in terms of commodities may turn out to be significant. For example, the ranking of rural living standards in different states in India changes significantly when the basis of comparison is shifted from command over commodities to command over characteristics such as calories and protein. There is little doubt that ultimately characteristics provide the more relevant basis for specification of basic needs, but the relative inflexibility of taste factors makes the conversion of these basic needs into minimum cost diets a function not merely of prices but also of consumption habits. Explicit account would have to be taken of this issue in completing the identification exercise.
+
+
+
+
+
+
+ PAGE 33 ENDS
+
+
+
+
+
+
+The 'direct method' and the 'income method' are not, in fact, mutually exclusive. The direct method can be used to identify the poor, and the income method can be used to aggregate them. The direct method is based on the notion of deprivation, and it is used to identify those who are unable to satisfy their basic needs. The income method, on the other hand, is based on the notion of income, and it is used to measure the extent of poverty. The direct method is more accurate in identifying the poor, but it is difficult to implement due to the lack of detailed consumption data. The income method is easier to implement, but it does not take into account individual idiosyncrasies. 
+There is a difficult line to draw here. If one were to look merely for the ability to meet minimum needs without being bothered by tastes, then one would, of course, set up a cost-minimizing programming problem and simply check whether someone's income falls short of that minimum cost solution. Such minimum cost diets are typically very inexpensive but exceedingly dull, and are very often regarded as unacceptable. In Indira Rajaraman's (1974) pioneering work on poverty in Punjab, in an initial round of optimization, unsuspecting Punjabis were subjected to a deluge of Bengal grams. Taste factors can be introduced through constraints, but it is difficult to decide how pervasive and severe these constraints should be. In the extreme case the constraints determine the consumption pattern entirely.
+But there is, I believe, a difference in principle between taste constraints that apply broadly to the entire community and those that essentially reflect individual idiosyncrasies. If the poverty-level income can be derived from typical behaviour norms of society, a person with a higher income who is choosing to fast on a bed of nails can, with some legitimacy, be declared to be non-poor. The income method does, therefore, have some merit of its own, aside from its role as a way of approximating what would have been yielded by the direct method had all the detailed consumption data been available.
+
+
+
+
+
+
+ PAGE 34 ENDS
+
+
+
+
+
+
+Poverty and Famines
+Two alternative ways of measuring the same thing, but represent two alternative conceptions of poverty. The direct method identifies those whose actual consumption fails to meet the accepted conventions of minimum needs, while the income method is after spotting those who do not have the ability to meet these needs within the behavioural constraints typical in that community. Both concepts are of some interest on their own in diagnosing poverty in a community, and while the latter is a bit more remote in being dependent on the existence of some typical behaviour pattern in the community, it is also a bit more refined in going beyond the observed choices into the notion of ability. A poor person, on this approach, is one whose income is not adequate to meet the specified minimum needs in conformity with the conventional behaviour pattern.
+The income method has the advantage of providing a metric of numerical distances from the 'poverty line', in terms of income short-falls. This the 'direct method' does not provide, since it has to be content with pointing out the short-fall of each type of need. On the other hand, the income method is more restrictive in terms of preconditions necessary for the 'identification' exercise. First, if the pattern of consumption behaviour has no uniformity, there will be no specific level of income at which the 'typical' consumer meets his or her minimum needs. Second, if prices facing different groups of people differ, e.g. between social classes or income groups or localities, then the poverty line will be group-specific, even when uniform norms and uniform consumption habits are considered. These are real difficulties and cannot be wished away. That the assumption of a uniform poverty line for a given society distorts reality seems reasonably certain. What is much less clear, however, is the extent to which reality is thus distorted, and the seriousness of the distortion for the purposes for which the poverty measures may be used.
+Another difficulty arises from the fact that the family rather than the individual is the natural unit as far as consumption behaviour
+
+
+
+
+
+
+ PAGE 35 ENDS
+
+
+
+
+
+
+Poverty: Identification and Aggregation
+
+income they would need to maintain the same standard of living
+if their family size were to change. This approach is based on
+the assumption that the family's behaviour is such that the
+additional income is used to maintain the same standard of living
+for all family members. This approach is, however, difficult to
+implement in practice, since it requires the collection of data on
+the actual consumption patterns of families of different sizes.
+
+Poverty estimation and social security operations require some
+method of correspondence of family income with individual
+income. The simplest method of doing this is to divide the family
+income by the number of family members, but this overlooks the
+economies of large scale that operate for many items of
+consumption, and also the fact that the children's needs may be
+quite different from those of adults. To cope with these issues,
+the common practice is to convert each family into a certain
+number of 'equivalent adults' by the use of some 'equivalence
+scale', or, alternatively, to convert the families into 'equivalent
+households'. There tends to be a lot of arbitrariness in any such
+conversion. Much depends on the exact consumption pattern of
+the people involved, which varies from family to family and with
+age composition. The question of maldistribution within the
+family is also an important issue requiring a good deal more
+attention than it has received so far. There are also different
+bases for deriving appropriate equivalence of needs. One
+approach is to take the nutritional requirements for each age
+group separately and then to take the ratios of their costs, given
+established patterns of consumer behaviour. The acceptability of
+this approach depends not merely on the validity of the
+nutritional standards used, but also on the assumption that
+family behaviour displays the same concern for fulfilling the
+respective nutritional requirements of members of different age
+groups in the family. It also ignores economies of scale in
+consumption which seem to exist even for such items as food.
+A second approach is to examine how the people involved
+regard the equivalence question themselves, viz. how much extra
+
+
+
+
+
+
+ PAGE 36 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+income they think is needed to make a larger family have the same standard of well-being as a smaller one. Empirical studies of these 'views' (e.g., Goedhart, Halberstadt, Kapteyn, and van Praag, 1977) have shown considerable regularities and consistency.
+A third way is to examine the actual consumption behaviour of families of different size and to treat some aspect of this behaviour as an indicator of welfare. For example, the fraction spent on food has been treated as an indicator of poverty: two families of different size are regarded as having 'equivalent' incomes when they spend the same proportion of their incomes on food.
+No matter how these equivalent scales are drawn up, there remains the further issue of the weighting of families of different size. Three alternative approaches may be considered: (1) put the same weight on each household, irrespective of size; (2) put the same weight on each person, irrespective of the size of the family to whom they belong; and (3) put a weight on each family equal to the number of equivalent adults in it.
+The first method is clearly unsatisfactory since the poverty and suffering of a large family is, in an obvious sense, greater than that of a small family at a poverty level judged to be equivalent to that of the former. The third alternative might look like a nice compromise, but is, I believe, based on a confusion. The scale of 'equivalent adults' indicates conversion factors to be used to find out how well off members of that family are, but ultimately we are concerned with the sufferings of everyone in the family and not of a hypothetical equivalent number. If two can live as cheaply as one and a half and three as cheaply as two, these facts must be taken into account in comparing the relative well-beings of two-member and three-member families; but there is no reason why the suffering of two three-member families should receive any less weight than that of three two-member families at the same level of illfare. There is, thus, a good case for using procedure (2), after the level of well-being or poverty of each person has been ascertained by the use of equivalent scales taking note of the size and composition of the families to whom they belong.
+
+
+
+
+
+
+ PAGE 37 ENDS
+
+
+
+
+
+
+The income short-fall of a person whose income is less than the poverty-line income can be called his 'income gap'. In the aggregate assessment of poverty, these income gaps must be taken into account. But does it make a difference whether or not a person's short-fall is unusually large compared with those of others? It seems reasonable to argue that any person's poverty cannot really be independent of how poor the others are. Even with exactly the same absolute short-fall, a person may be thought to be 'poorer' if the other poor have short-falls smaller than his, in contrast with the case in which his short-fall is less than that of others. Quantification of poverty would, thus, seem to need the marrying of considerations of absolute and relative deprivation even after a set of minimum needs and a poverty line have been fixed.
+The question of relative deprivation can be viewed also in the context of a possible transfer of a unit of income from a poor person to another who is richer but still below the poverty line and remains so even after the transfer. Such a transfer will increase the absolute short-fall of the first person by exactly the same amount by which the absolute short-fall of person 2 will be reduced. Can one then argue that the over-all poverty is unaffected by the transfer? One can dispute this, of course, by bringing in some notion of diminishing marginal utility of income, so that the utility loss of the first may be argued to be greater than the utility gain of the second. But such cardinal utility comparisons for different persons involves the use of a rather demanding informational structure with well-known difficulties. In the absence of cardinal comparisons of marginal utility gains and losses, is it then impossible to hold that the overall poverty of the community has increased? I would argue that this is not the case.
+Person 1 is relatively deprived compared with 2 (and there may be others in between the two who are more deprived than 2 but less so than 1). When a unit of income is transferred from 1 to 2, it increases the absolute short-fall of a more deprived person and reduces that of someone less deprived, so that in a straightforward
+
+
+
+
+
+
+ PAGE 38 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+proportion of the total income of the community that is received
+by the poor, i.e. the 'income gap' measure G given by
+G = (1/T) Σqiyi/Σni
+where qi is the number of people in the ith income class and yi
+the mean income of that class.
+
+The head-count measure H and the income gap measure G
+have been the mainstay of poverty measurement. Both have
+shortcomings. The head-count measure H is a crude measure of
+poverty, since it does not take into account the degree of
+deprivation of the poor. It is possible that the same head-count
+measure H can be obtained with different distributions of income
+among the poor. For example, if the income of the poorest
+person is doubled, while the incomes of all other poor people
+remain unchanged, the head-count measure H will remain
+unchanged. But the degree of deprivation of the poorest person
+will have been reduced. The income gap measure G is a better
+measure of poverty than the head-count measure H, since it
+takes into account the degree of deprivation of the poor. But it
+too has shortcomings. It does not take into account the
+distribution of income among the poor. For example, if the
+income of the poorest person is doubled, while the incomes of all
+other poor people remain unchanged, the income gap measure G
+will remain unchanged. But the degree of deprivation of the
+poorest person will have been reduced.
+
+The head-count measure H and the income gap measure G
+have been the mainstay of poverty measurement. Both have
+shortcomings. The head-count measure H is a crude measure of
+poverty, since it does not take into account the degree of
+deprivation of the poor. It is possible that the same head-count
+measure H can be obtained with different distributions of income
+among the poor. For example, if the income of the poorest
+person is doubled, while the incomes of all other poor people
+remain unchanged, the head-count measure H will remain
+unchanged. But the degree of deprivation of the poorest person
+will have been reduced. The income gap measure G is a better
+measure of poverty than the head-count measure H, since it
+takes into account the degree of deprivation of the poor. But it
+too has shortcomings. It does not take into account the
+distribution of income among the poor. For example, if the
+income of the poorest person is doubled, while the incomes of all
+other poor people remain
+
+
+
+
+
+
+ PAGE 39 ENDS
+
+
+
+
+
+
+Poverty: Identification and Aggregation
+
+of a country than the proportion of its population below the poverty
+line'.18 This is a remarkable statement, since it implies that the
+number of poor people is the only thing that matters, and that the
+extent of their poverty is of no consequence.
+
+
+
+
+
+
+ PAGE 40 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+of the nation than that which shows what proportion are in
+poverty' (p. 214). The spirit of the remark is acceptable enough,
+but surely not the gratuitous identification of poverty with the
+head-count measure H.
+What about a combination of these poverty measures? The
+head-count measure H ignores the extent of income short-falls,
+while the income-gap ratio / ignores the numbers involved: why
+not a combination of the two? This is, alas, still inadequate. If a
+unit of income is transferred from a person below the poverty line
+to someone who is richer but who still is (and remains) below the
+poverty line, then both the measures H and I will remain
+completely unaffected. Hence any 'combined' measure based
+only on these two must also show no response whatsoever to such
+a change, despite the obvious increase in aggregate poverty as a
+consequence of this transfer in terms of relative deprivation.
+There is, however, a special case in which a combination of H
+and I might just about be adequate. Note that, while individually
+H is insensitive to the extent of income short-falls and I to the
+numbers involved, we could criticize the combination of the two
+only for their insensitivity to variations of distribution of income
+among the poor. If we were, then, to confine ourselves to cases in
+which all the poor have precisely the same income, it may be
+reasonable to expect that H and / together may do the job.
+Transfers of the kind that have been considered above to show
+the insensitivity of the combination of//and / will not then be in
+the domain of our discourse.
+The interest of the special case in which all the poor have the
+same income does not arise from its being a very likely
+occurrence. Its value lies in clarifying the way absolute deprivation vis-à-vis the poverty line may be handled when there isn't
+the additional feature of relative deprivation among the poor. It
+helps us to formulate a condition that the required poverty
+measure P should satisfy when the problem of distribution among
+the poor is assumed away by postulating equality. It provides one
+regularity condition to be satisfied among others.
+
+
+
+
+
+
+ PAGE 41 ENDS
+
+
+
+
+
+
+END
+
+
+
+
+
+
+ PAGE 42 ENDS
+
+
+
+
+
+
+Poverty and Famines
+A rather distinguished and simple case of such a relationship is to make the weight on any person i's income gap equal the rank value r(i). This makes the weights equidistanced, and the procedure is in the same spirit as Borda's (1781) famous argument for the rank-order method of voting, choosing equal distances in the absence of a convincing case for any alternative assumption. While this too is arbitrary, it captures the notion of relative deprivation in a simple way, and leads to a transparent procedure, making it quite clear what precisely is being assumed. It is, in fact, possible to derive the characteristic of equidistance from other—more primitive—axioms (see Sen, 1973b, 1974).
+It should be remembered that in fixing the poverty line considerations of relative deprivation have already played a part, so that absolute deprivation vis-à-vis the poverty line is non-relative only in the limited context of the 'aggregation' exercise. As was discussed earlier, the concepts of absolute and relative deprivation are both relevant to each of the two exercises in the measurement of poverty, viz. identification and aggregation. Axioms A and R are each concerned exclusively with the aggregation exercise.
+
+
+
+
+
+
+ PAGE 43 ENDS
+
+
+
+
+
+
+Poverty: Identification and Aggregation
+
+poverty more meaningful. The index P is a useful tool for
+aggregating the information on poverty, and for making
+comparisons across different situations.
+
+
+
+
+
+
+ PAGE 44 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+Poverty is sensitive to the different features that are implicit in our
+ideas on poverty. In particular, the question of distribution
+remains relevant even when incomes below the poverty line are
+considered. It will be necessary to go into this question further in
+the context of analysing starvation and famines, as is done in the
+chapters that follow.
+
+
+
+
+
+
+ PAGE 45 ENDS
+
+
+
+
+
+
+
+distinguish famines from regular starvation by the intensity of the
+phenomenon, the extent of the area affected, and the duration of
+the crisis.
+
+Famines are not only disasters in terms of human mortality, but
+also in terms of the disruption of the social fabric. In the words
+of one observer:
+
+Famines are not only physical disasters, but also social and
+political ones. They are not only a matter of food supply, but
+also of social and political organization. They are not only
+caused by natural disasters, but also by human failure.
+
+Famines, then, are not only disasters in terms of human mortality,
+but also in terms of the disruption of the social fabric. They are
+not only a matter of food supply, but also of social and political
+organization. They are not only caused by natural disasters, but
+also by human failure.
+
+Famines are not only physical disasters, but also social and
+political ones. They are not only a matter of food supply, but
+also of social and political organization. They are not only
+caused by natural disasters, but also by human failure.
+
+Famines are not only disasters in terms of human mortality, but
+also in terms of the disruption of the social fabric. They can
+have a devastating effect on the economic and social life of a
+region, leading to a breakdown of the social order and a
+deterioration of the quality of life.
+
+Famines can be caused by a variety of factors, including natural
+disasters such as drought, floods, and pestilence; political
+instability; war; and economic mismanagement. In some cases,
+famines can be caused by a combination of factors.
+
+Famines can have a devastating effect on the economic and
+social life of a region, leading to a breakdown of the social
+order and a deterioration of the quality of life. They can also
+have a long-term impact on the health and well-being of the
+population, leading to increased morbidity and mortality.
+
+Famines can be prevented or alleviated through a variety of
+measures, including the provision of food aid, the promotion of
+agricultural production, and the implementation of social and
+economic policies that are designed to reduce poverty and
+inequality.
+
+Famines can have a devastating effect on the economic and
+social life of a region, leading to a breakdown of the social
+order and a deterioration of the quality of life. They can also
+have a long-term impact on the health and well-being of the
+population, leading to increased morbidity and mortality.
+Famines imply starvation, but not vice versa. And starvation
+implies poverty, but not vice versa. The time has come for us to
+move from the general terrain of poverty to the disastrous
+phenomenon of famines.
+Poverty, as was discussed in Chapter 2, can reflect relative
+deprivation as opposed to absolute dispossession. It is possible for
+poverty to exist, and be regarded as acute, even when no serious
+starvation occurs. Starvation, on the other hand, does imply
+poverty, since the absolute dispossession that characterizes
+starvation is more than sufficient to be diagnosed as poverty, no
+matter what story emerges from the view of relative deprivation.
+Starvation is a normal feature in many parts of the world, but
+this phenomenon of 'regular' starvation has to be distinguished
+from violent outbursts of famines. It isn't just regular starvation
+that one sees in famines.
+
+Famines are not only disasters in terms of human mortality, but
+also in terms of the disruption of the social fabric. In the words
+of one observer:
+
+Famines are not only physical disasters, but also social and
+political ones. They are not only a matter of food supply, but
+also of social and political organization. They are not only
+caused by natural disasters, but also by human failure.
+
+Famines can be caused by a variety of factors, including natural
+disasters such as drought, floods, and pestilence; political
+instability; war; and economic mismanagement. In some cases,
+famines can be caused by a combination of factors.
+
+Famines can have a devastating effect on the economic and
+social life of a region, leading to a breakdown of the social
+order and a deterioration of the quality of life. They can also
+have a long-term impact on the health and well-being of the
+population, leading to increased morbidity and mortality.
+
+Famines can be prevented or alleviated through a variety of
+measures, including the provision of food aid, the promotion of
+agricultural production, and the implementation of social and
+economic policies that are designed to reduce poverty and
+inequality.
+
+
+
+
+
+
+ PAGE 46 ENDS
+
+
+
+
+
+
+Poverty and famines are often seen as an inevitable part of the economic landscape. However, it is possible to diagnose it—like a flood or a fire—even without being armed with a precise definition. In distinguishing between starvation and famine, it is not my intention here to attribute a sense of deliberate harming to the first absent in the second.
+
+The history of famines as well as of regular hunger is full of bloodboiling tales of callousness and malevolence—and I shall have something to say on this—but the distinction between starvation and famine used in this work does not relate to this. Starvation is used here in the wider sense of people going without adequate food, while famine is a particularly virulent manifestation of its causing widespread death.
+
+In analysing starvation in general, it is important to make clear distinctions between three different issues. Firstly, lowness of the typical level of food consumption; secondly, declining trend of food consumption; resulting in widespread and persistent hunger, evidenced by loss of body weight and emaciation and increase in the death rate caused either by starvation or disease resulting from the weakened condition of the population. In statistical term, it can be defined as a severe shortage of food accompanied by a significant increase in the local or regional death rate. Famine is an economic and social phenomenon characterised by the widespread lack of food resources which, in the absence of outside aid, leads to death of those affected.
+
+The definitional exercise is more interesting in providing a pithy description of what happens in situations clearly diagnosed as one of famine than in helping us to do the diagnosis—the traditional function of a definition. For example, Gale Johnson's pointer to disease in addition to starvation directs our attention to an exceptionally important aspect of famines. See also Morris.
+
+
+
+
+
+
+ PAGE 47 ENDS
+
+
+
+
+
+
+The underlying empirical generalisation about trends of food availability has been, however, the subject of some controversy. See also Ohkawa (1957) and Ohkawa and Rosovsky (1973). Nakamura (1966) argues that in the Tokugawa period food consumption was more regular but less on average than in the Meiji era. Hobsbawm (QS?) also suggests a similar contrast in the British standard of living during 1790-1850. The empirical issue as to whether the quoted views of the Indian or Japanese economic history are correct is, of course, a different question.
+
+
+
+
+
+
+ PAGE 48 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+the fact that a rising trend need not eliminate big fluctuations.
+Indeed, there are good reasons to think that the trend of food
+availability per head in recent years has been a rising one in most
+parts of the world, but nevertheless acute starvation has
+occurred quite often, and there is some evidence of intensification
+of famine threats. While this is partly a problem of distribution
+of food between different groups in a nation—an issue to which I
+shall turn presently—there is also the time contrast (in
+particular, the problem of sharp falls against a generally rising
+trend). Famines can strike even when regular starvation is on
+firm decline.
+The food crisis of 1972 is a global example of this time contrast.
+Colin Tudge (1977) describes the development in dramatic
+terms:
+The 1960s brought good harvests, augmented by the Third World's
+'green revolution', based on American-developed dwarf strains of
+wheat and rice. The world's food problem was not shortage,
+apparently, but over-production, leading to low prices and agricultural
+depression. The US took land out of production, and in the early 1970s
+both the US and Canada ran down their grain stores. Then the bad
+weather of 1972 brought dismal harvests to the USSR, China, India,
+Australia and the Sahel countries south of Sahara. Russia bought
+massively in the world grain markets before others, including the US,
+realized what was happening. By mid-1974 there was only enough
+grain left in store to feed the world's population for three-and-a-half
+weeks; terrifying brinkmanship.
+In all this the focus has been on the total availability of food—
+for the nation as a whole, or even for the world as a whole. But
+exactly similar contrasts hold for food availability to a particular
+section of a given community. A sudden collapse of the command
+of a group over food can go against a rising trend (or against a
+typically high level of food consumption). Problems of
+(i) existence of much regular starvation, (ii) worsening trend of
+regular starvation, and (iii) sudden outbreak of acute starvation,
+are quite distinct. While they can accompany each other, they
+need not, and often do not, do so.
+
+
+
+
+
+
+ PAGE 49 ENDS
+
+
+
+
+
+
+Starvation and famines
+While famines involve fairly widespread acute starvation, there is no reason to think that it will affect all groups in the famine-affected nation. Indeed, it is by no means clear that there has ever occurred a famine in which all groups in a country have suffered from starvation, since different groups typically do have very different commanding powers over food, and an over-all shortage brings out the contrasting powers in stark clarity.
+
+There has been some speculation as to whether such a comprehensive famine was not observed in India in 1344-5 (see Walford 1878, and Alamgir 1980, p. 14). There is indeed some evidence for this famine being a very widespread one. In fact, the authoritative Encyclopaedia Britannica saw the famine as one in which even 'the Mogul emperor was unable to obtain the necessaries for his household' (Eleventh Edition, 1910-1, vol. X, p. 167). This is most unlikely since the Mogul empire was not established in India until 1526! But it is also doubtful that the Tughlak king then in power—Mohammad Bin Tughlak—was really unable to obtain his household necessities, since he had the resources to organize one of the most illustrous famine relief programmes, including remitting taxes, distributing cash, and opening relief centres for the distribution of cooked food (see Loveday, 1916). One has to be careful about anecdotal history, just as a companion volume of the same Encyclopaedia points out.
+
+The importance of inter-group distributional issues rests not merely in the fact that an over-all shortage may be very unequally shared by different groups, but also in the recognition that some groups can suffer acute absolute deprivation. One contrast that has received much professional attention recently is that between urban and rural population (see particularly Lipton, 1977). This contrast is indeed relevant to conflicts implicit in some famines (see for example Chapter 6 below), but there are other, more specialized, group conflicts which deserve more attention (some of these contrasts are taken up in Chapters 6, 7, 8, and 9).
+
+
+
+
+
+
+ PAGE 50 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+even when there is no over-all shortage. There is no reason
+whatsoever to think that the food consumption of different groups
+must vary in the same direction, and in later chapters cases will be encountered in
+which different groups' fortunes moved sharply in opposite
+directions.
+
+
+
+
+
+
+ PAGE 51 ENDS
+
+
+
+
+
+
+
+opportunities available to him. The endowment of a person is
+the bundle of commodities he owns, and the exchange opportunities are the terms on which he can exchange his endowment for other commodities.
+
+5.2 THE ENTITLEMENT APPROACH
+The entitlement approach to starvation and famines concentrates on the ability of people to command food through the legal means available in the society, including the use of production possibilities, trade opportunities, entitlements vis-àvis the state, and other methods of acquiring food. A person starves either because he does not have the ability to command enough food, or because he does not use this ability to avoid starvation. The entitlement approach concentrates on the former, ignoring the latter possibility. Furthermore, it concentrates on those means of commanding food that are legitimized by the legal system in operation in that society. While it is an approach of some generality, it makes no attempt to include all possible influences that can in principle cause starvation, for example illegal transfers (e.g. looting), and choice failures (e.g. owing to inflexible food habits).
+Ownership of food is one of the most primitive property rights, and in each society there are rules governing this right. The entitlement approach concentrates on each person's entitlements to commodity bundles including food, and views starvation as resulting from a failure to be entitled to a bundle with enough food.
+In a fully directed economy, each person may simply get a particular commodity bundle which is assigned to him. To a limited extent this happens in most economies, e.g. to residents of old people's homes or of mental hospitals. Typically, however, there is a menu—possibly wide—to choose from. E, is the entitlement set of person 1 in a given society, in a given situation, and it consists of a set of alternative commodity bundles, any one of which the person can decide to have. In an economy with private ownership and exchange in the form of trade (exchange with others) and production (exchange with nature), E, can be characterized as depending on two parameters, viz. the endowment of the person (the ownership bundle) and the exchange
+
+
+
+
+
+
+ PAGE 52 ENDS
+
+
+
+
+
+
+Poverty and Famines
+
+Entitlement mapping (the function that specifies the set of alternative commodity bundles that the person can command respectively for each endowment bundle) will depend on the legal, political, economic and social characteristics of the society in question and the person's position in it. Perhaps the simplest case in terms of traditional economic theory is one in which the endowment bundle can be exchanged in the market at fixed relative prices for any bundle costing no more, and here the exchange entitlement will be a traditional 'budget set'.
+Bringing in production will make the E-mapping depend on production opportunities as well as trade possibilities of resources and products. It will also involve legal rights to apportioning the product, e.g. the capitalist rule of the 'entrepreneur' owning the produce. Sometimes the social conventions governing these rights can be very complex indeed—for example those governing the rights of migrant members of peasant families to a share of the peasant output.
+Social security provisions are also reflected in the E-mapping, such as the right to unemployment benefit if one fails to find a job, or the right to income supplementation if one's income would fall otherwise below a certain specified level. And so are employment guarantees when they exist—as they do in some socialist economies—giving one the option to sell one's labour power to the government at a minimum price. E-mappings will depend also on provisions of taxation.
+
+
+
+
+
+
+ PAGE 53 ENDS
+
+
+
+
+
+
+The Entitlement Approach
+Let the set of commodity bundles, each of which satisfies person z's minimum food requirement, be F,. Person i will be forced to starve because of unfavourable entitlement relations if and only if he is not entitled to any member of Fi given his endowment and his exchange entitlement mapping. The 'starvation set' S, of endowments consists of those endowment bundles such that the exchange entitlement sets corresponding to them contain no bundles satisfying his minimum food requirements.
+Person i can be plunged into starvation if his endowment collapses into the starvation set S, either through a fall in the endowment bundle, or through an unfavourable shift in the exchange entitlement mapping. The distinction is illustrated in Figure 5. i in terms of the simple case of pure trade involving only two commodities, food and non-food. The exchange entitlement mapping is taken to assume the simple form of constant price exchange. With a price ratio p and a minimum food requirement OA, the starvation set Sl is given by the region O AB. If the endowment vector is x, the person is in a position to avoid starvation. This ability can fail either (1) through a lower endowment vector, e.g. x*, or (2) through a less favourable exchange entitlement mapping, e.g. that given by p*, which would make the starvation set OAC.
+It is easy to see that starvation can develop for a certain group of people as its endowment vector collapses, and there are indeed many accounts of such endowment declines on the part of sections of the poor rural population in developing countries through alienation of land, sale of livestock, etc. Asset loss affects not merely the ability to exchange the asset directly with food, but also the ability to borrow against one's future earning power. Given the nature of the capital markets, substantial borrowing is typically impossible without tangible securities. The limitations of the capital markets often constitute an important aspect of famine conditions.
+
+
+
+
+
+
+ PAGE 54 ENDS
+
+
+
+
+
+
