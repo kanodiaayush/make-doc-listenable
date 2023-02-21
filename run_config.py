@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 configs = {
-    'suffix' : '_prompt_12_7',
+    'suffix' : '_prompt_12_3',
     'pre_prompt' : "Produce an exact replica of the text provided. The text starts at START. Remove references. Remove isolated digits and numbers. Only do edits, no additions. Do not autocomplete any sentences. The end of output may seem abrupt, that is correct. Do not complete the last sentence.",
     # 'pre_prompt_2' : "Produce an exact replica of the text provided. The text starts at START. Remove the header.",
 }
@@ -11,10 +11,11 @@ configs.update({
     'output_file': f'data/poverty_famine_sen_cleaned{configs["suffix"]}.txt',
     'output_file_raw': 'data/poverty_famine_sen_raw.txt',
     'tmpdir': 'data/poverty_famine_sen_tmp',
-    'start_page': 10,
-    'end_page' : 12,
+    'start_page': 30,
+    'end_page' : 90,
     'output_to_pdf' : True,
     'print_page_breaks' : True,
+    'remove_newlines' : True,
 })
 
 # configs.update({
@@ -69,4 +70,5 @@ configs.update({
     # 'pre_prompt' : "Produce an exact replica of the text provided. The text starts at START and ends at END. Remove references. Please capitalize headings, and add new lines before and after headings. Only do edits, no additions.",
     # 'suffix' : '_prompt_14',
     # 'pre_prompt' : "Produce an exact replica of the text provided. The text starts at START and ends at END. Remove references. Remove references both twoards the end of the page and inline. References are often in parantheses and contain the word see. Please capitalize headings, and add new lines before and after headings. Only do edits, no additions.",
-    # 'suffix' : '_prompt_15',
+    # 'suffix' : '_prompt_12_3_1',
+    # 'pre_prompt' : "Produce an exact replica of the text provided. The text starts at START. Remove references. Remove isolated digits and numbers. Remove newlines and line breaks except after headings. Only do edits, no additions. Do not autocomplete any sentences. The end of output may seem abrupt, that is correct. Do not complete the last sentence.",

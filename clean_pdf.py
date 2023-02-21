@@ -87,7 +87,11 @@ def clean_pdf(configs):
             for ii in range(start_page, end_page):
                 output_filename = '{}/page_{}_cleaned{}.txt'.format(tmpdir, ii, configs['suffix'])
                 with open(output_filename, 'r') as f:
-                    out.write(f.read())
+                    if configs['remove_newlines']:
+                        cleaned_text = f.read().replace('\n', ' ')
+                    else:
+                        cleaned_text = f.read()
+                    out.write(cleaned_text)
                 if configs['print_page_breaks']:
                     out.write(f'\n\n\n\n\n\n\n PAGE {ii} ENDS\n\n\n\n\n\n\n')
         if configs['output_to_pdf']:
@@ -112,7 +116,8 @@ def clean_pdf(configs):
 
 if __name__ == '__main__':
     from run_config import configs
-
+    clean_pdf(configs)
+'''
     # Validate OPENAI_API_KEY
     if 'OPENAI_API_KEY' not in os.environ:
         print('OPENAI_API_KEY not found in environment variables')
@@ -176,3 +181,4 @@ if __name__ == '__main__':
 
     print('Running:')
     clean_pdf(configs)
+'''
